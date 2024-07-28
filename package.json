@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-enumerable-property-symbols-in",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Return an array of an object's own and inherited enumerable symbol properties.",
   "license": "Apache-2.0",
   "author": {
