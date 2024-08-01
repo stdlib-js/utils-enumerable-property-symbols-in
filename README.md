@@ -190,11 +190,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
@@ -210,11 +205,11 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/utils-enumerable-property-symbols-in.svg
 [npm-url]: https://npmjs.org/package/@stdlib/utils-enumerable-property-symbols-in
 
-[test-image]: https://github.com/stdlib-js/utils-enumerable-property-symbols-in/actions/workflows/test.yml/badge.svg?branch=v0.2.1
-[test-url]: https://github.com/stdlib-js/utils-enumerable-property-symbols-in/actions/workflows/test.yml?query=branch:v0.2.1
+[test-image]: https://github.com/stdlib-js/utils-enumerable-property-symbols-in/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/utils-enumerable-property-symbols-in/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-enumerable-property-symbols-in/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/utils-enumerable-property-symbols-in?branch=v0.2.1
+[coverage-url]: https://codecov.io/github/stdlib-js/utils-enumerable-property-symbols-in?branch=main
 
 <!--
 
@@ -240,8 +235,6 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/utils-enumerable-property-symbols-in/tree/esm
 [esm-readme]: https://github.com/stdlib-js/utils-enumerable-property-symbols-in/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/utils-enumerable-property-symbols-in/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-enumerable-property-symbols-in/main/LICENSE
 
 [ecma-262-for-in]: https://262.ecma-international.org/5.1/#sec-12.6.4
 
